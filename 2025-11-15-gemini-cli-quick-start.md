@@ -54,9 +54,7 @@ npm install -g @google/gemini-cli
 >
 > 「我具備 JavaScript（涵蓋 Node.js、Next.js、Vue、Quasar 框架）開發能力，熟悉 MySQL 資料庫，並掌握 PHP 和 CakePHP。專案中遇到需確認事項時，請先建立待修改內容文件並提供可參考方案。待我確認後，再行執行並仔細核對結果。」
 
-:::info  
-修改完成後，請務必重啟 `gemini` 或執行 `/memory refresh` 指令，以載入最新的 `GEMINI.md` 設定。  
-:::
+**修改完成後，請務必重啟 `gemini` 或執行 `/memory refresh` 指令，以載入最新的 `GEMINI.md` 設定。**  
 
 ## 如何使用 Gemini CLI
 
@@ -190,14 +188,11 @@ Google 的 Gemini 2.5 系列模型（Pro、Flash、Flash-Lite）在速度、成�
   * **性能**：提供無與倫比的成本效益和速度，延遲低於 2.0 Flash-Lite 和 2.0 Flash。其「思考模式」預設為關閉，以優化速度和成本。
   * **成本**：最經濟實惠的選項。
 
-:::info  
-啟動時指定model
+**啟動時指定model**
 
 ```bash
 gemini --model gemini-2.5-flash
 ```
-
-:::
 
 # 常見問題 (FAQ)
 
