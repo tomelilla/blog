@@ -13,3 +13,7 @@
 
 ### Markdown 筆記
 - 2025/11/15 - [Gemini CLI 入門紀錄](./2025-11/2025-11-15-gemini-cli-quick-start.md)
+
+## 文件
+
+- [文件分類與排序規則](./doc/categorization-rules/document-categorization-rules.md)
