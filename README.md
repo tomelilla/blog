@@ -1,6 +1,13 @@
 # blog
 寫點東西
 
-## 列表
+## Markdown 筆記
 
-- [2025-11-15 Gemini CLI 入門紀錄](./2025-11-15-gemini-cli-quick-start.md)
+- [Gemini CLI 入門紀錄](./2025-12/2025-11-15-gemini-cli-quick-start.md)
+
+## PDF 文件
+
+- [Gemini_CLI終極指南](./2025-12/2025-12-07-Gemini_CLI終極指南.pdf)
+- [AI協作新紀元](./2025-12/2025-12-06-AI協作新紀元.pdf)
+- [AI協作：從對話到生產力](./2025-12/2025-12-06-AI協作：從對話到生產力.pdf)
+- [DeepSeek-V3.2：開源AI與性價比的王者](./2025-12/2025-12-07-DeepSeek-V3.2：開源AI與性價比的王者.pdf)
