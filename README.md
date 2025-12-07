@@ -12,4 +12,4 @@
 ## 2025年11月
 
 ### Markdown 筆記
-- 2025/11/15 - [Gemini CLI 入門紀錄](./2025-12/2025-11-15-gemini-cli-quick-start.md)
+- 2025/11/15 - [Gemini CLI 入門紀錄](./2025-11/2025-11-15-gemini-cli-quick-start.md)
